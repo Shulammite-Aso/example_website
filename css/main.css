@@ -4,7 +4,25 @@
   .nav-spacing {
     margin: 0 0 0 10px;
   }
+  header {
+    text-align: center; 
+    margin: 0 0 80px;
+  }
 
   a {
       text-decoration: none;
   }
+.book-review {
+    width: 500px;
+     margin: 20px auto; 
+     padding: 30px;
+  background-color: #fafafa;
+}
+.block-quote {
+    font-style: italic; 
+    font-size: 20px;
+}
+.quote-block-quote {
+    padding: 2px 20px;
+    background: #d4d4d4;
+}
